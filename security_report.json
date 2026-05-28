@@ -1,0 +1,10 @@
+{
+  "tarih": "2024-01-15T10:30:45.123456",
+  "hedef": "https://example.com",
+  "toplam_zafiyet": 5,
+  "kritik": 1,
+  "yuksek": 2,
+  "orta": 1,
+  "dusuk": 1,
+  "zafiyetler": [...]
+}
