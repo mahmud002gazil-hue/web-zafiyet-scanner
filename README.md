@@ -32,3 +32,7 @@ Tarama aracı aşağıdaki güvenlik açıklarını tespit eder:
 ```bash
 git clone https://github.com/mahmud002gazil-hue/web-zafiyet-scanner.git
 cd web-zafiyet-scanner
+
+pip install -r requirements.txt
+
+güvenlik açığı_tarayıcısı.py
